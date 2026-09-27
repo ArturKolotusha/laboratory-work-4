@@ -1,0 +1,16 @@
+# Virtual environment
+kolotusha/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db

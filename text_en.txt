@@ -1,0 +1,1 @@
+Today is a beautiful autumn day. I'm learning the Python programming language. In the classroom, we work with modules and packages. This laboratory work is devoted to the translation of the text.

@@ -1,0 +1,7 @@
+{
+    "text_file": "text.txt",
+    "target_language": "en",
+    "module": "deeptr_module",
+    "output": "file",
+    "sentences": 4
+}
